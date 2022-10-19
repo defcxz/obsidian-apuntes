@@ -2,7 +2,7 @@
   "commitMessage": "vault backup: {{date}}",
   "autoCommitMessage": "backup de la vault: {{date}}",
   "commitDateFormat": "DD-MM-YYYY HH:MM",
-  "autoSaveInterval": 0,
+  "autoSaveInterval": 1,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": false,
