@@ -1,0 +1,20 @@
+{
+  "obsidian-git:stage-current-file": [
+    {
+      "modifiers": [],
+      "key": "F17"
+    }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [],
+      "key": "F18"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [],
+      "key": "F15"
+    }
+  ]
+}
