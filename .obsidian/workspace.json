@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sexto semestre/00 - Inteligencia/Hola soy un apunte de prueba.md",
+                "file": "Sexto semestre/01 - Gestión de Proyectos/Hola soy un apunte de prueba.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sexto semestre/00 - Inteligencia/Hola soy un apunte de prueba.md",
+                "file": "Sexto semestre/01 - Gestión de Proyectos/Hola soy un apunte de prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sexto semestre/00 - Inteligencia/Hola soy un apunte de prueba.md",
+                "file": "Sexto semestre/01 - Gestión de Proyectos/Hola soy un apunte de prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sexto semestre/00 - Inteligencia/Hola soy un apunte de prueba.md"
+                "file": "Sexto semestre/01 - Gestión de Proyectos/Hola soy un apunte de prueba.md"
               }
             }
           }
@@ -139,7 +139,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ca3109624f1aa801",
+  "active": "8fcb62778c23f97f",
   "lastOpenFiles": [
     "README.md"
   ]
