@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "727a502bb45b07e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sexto semestre/04 - Inteligencia/sdfdsjfklsdjf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sexto semestre/01 - Gestión de Proyectos/Hola soy un apunte de prueba.md",
+                "file": "Sexto semestre/04 - Inteligencia/sdfdsjfklsdjf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sexto semestre/01 - Gestión de Proyectos/Hola soy un apunte de prueba.md",
+                "file": "Sexto semestre/04 - Inteligencia/sdfdsjfklsdjf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sexto semestre/01 - Gestión de Proyectos/Hola soy un apunte de prueba.md"
+                "file": "Sexto semestre/04 - Inteligencia/sdfdsjfklsdjf.md"
               }
             }
           }
@@ -139,8 +152,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8fcb62778c23f97f",
+  "active": "727a502bb45b07e6",
   "lastOpenFiles": [
+    "Sexto semestre/01 - Gestión de Proyectos/Hola soy un apunte de prueba.md",
     "README.md"
   ]
 }
