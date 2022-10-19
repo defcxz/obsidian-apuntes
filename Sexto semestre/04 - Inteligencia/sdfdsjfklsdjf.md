@@ -1,1 +1,0 @@
-acabo de mover esto a inteligencia lalala
