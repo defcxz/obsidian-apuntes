@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liderazgo en proyectos de TI.md",
+                "file": "Sexto semestre/06 - Gestión de Personas/Liderazgo en proyectos de TI.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Desafíos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "1560dde5ef285744",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liderazgo en proyectos de TI.md",
+                "file": "Sexto semestre/06 - Gestión de Personas/Liderazgo en proyectos de TI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liderazgo en proyectos de TI.md",
+                "file": "Sexto semestre/06 - Gestión de Personas/Liderazgo en proyectos de TI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liderazgo en proyectos de TI.md"
+                "file": "Sexto semestre/06 - Gestión de Personas/Liderazgo en proyectos de TI.md"
               }
             }
           }
@@ -161,7 +162,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "31593dafb626bad6",
+  "active": "a179d1c9e0466699",
   "lastOpenFiles": [
     "Sexto semestre/02 - Emprendimiento/Octubre 6.md",
     "conflict-files-obsidian-git.md",
