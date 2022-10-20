@@ -13,3 +13,6 @@ Competencias conductuales críticas  = Habilidades blandas - buena conducta - tr
 	- Responder en tiempos, costos y SLA determinados.
 	- Necesidades crecientes en la sociedad.
 
+## Líder 
+Influye en un equipo humano, para lograr metas.
+Inspra al equipo del proyecto.
