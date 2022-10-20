@@ -19,8 +19,12 @@
             "id": "b3a924a2353109dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sexto semestre/02 - Emprendimiento/Octubre 6.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "1560dde5ef285744",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sexto semestre/02 - Emprendimiento/Octubre 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sexto semestre/02 - Emprendimiento/Octubre 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sexto semestre/02 - Emprendimiento/Octubre 6.md"
+              }
             }
           }
         ]
@@ -143,7 +152,7 @@
   "active": "b3a924a2353109dc",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "Untitled.md",
+    "Sexto semestre/02 - Emprendimiento/Octubre 6.md",
     "Sexto semestre/01 - Gestión de Proyectos/Hola soy un apunte de prueba.md",
     "Sexto semestre/07 - Portafolio/hola soy otro apunte fsdkljslkjf.md",
     "Sexto semestre/04 - Inteligencia/sdfdsjfklsdjf.md",
