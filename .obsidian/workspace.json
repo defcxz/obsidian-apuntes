@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a179d1c9e0466699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liderazgo en proyectos de TI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Desafíos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +86,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "1560dde5ef285744",
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sexto semestre/02 - Emprendimiento/Octubre 6.md",
+                "file": "Liderazgo en proyectos de TI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sexto semestre/02 - Emprendimiento/Octubre 6.md",
+                "file": "Liderazgo en proyectos de TI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sexto semestre/02 - Emprendimiento/Octubre 6.md"
+                "file": "Liderazgo en proyectos de TI.md"
               }
             }
           }
@@ -149,10 +161,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b3a924a2353109dc",
+  "active": "31593dafb626bad6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Sexto semestre/02 - Emprendimiento/Octubre 6.md",
+    "conflict-files-obsidian-git.md",
     "Sexto semestre/01 - Gestión de Proyectos/Hola soy un apunte de prueba.md",
     "Sexto semestre/07 - Portafolio/hola soy otro apunte fsdkljslkjf.md",
     "Sexto semestre/04 - Inteligencia/sdfdsjfklsdjf.md",
