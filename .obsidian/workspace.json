@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc83aa9c1dbdbc0d",
+        "id": "2d0ad13490899ff6",
         "type": "tabs",
         "children": [
           {
-            "id": "30c2b1293cc434fc",
+            "id": "f7f52165bdb6f71f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -131,8 +131,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "30c2b1293cc434fc",
+  "active": "8fcb62778c23f97f",
   "lastOpenFiles": [
+    "Untitled.md",
     "Sexto semestre/01 - Gestión de Proyectos/Hola soy un apunte de prueba.md",
     "Sexto semestre/07 - Portafolio/hola soy otro apunte fsdkljslkjf.md",
     "Sexto semestre/04 - Inteligencia/sdfdsjfklsdjf.md",

@@ -1,5 +1,6 @@
 {
   "accentColor": "",
-  "translucency": true,
-  "cssTheme": ""
+  "translucency": false,
+  "cssTheme": "",
+  "showViewHeader": true
 }
